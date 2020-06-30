@@ -1,1 +1,23 @@
-
+#g
+{
+font-family:"Times New Roman";
+text-align:center;
+color:#cc0066;
+}
+body {
+background-image: url("back1.png");
+}
+#gh
+{
+color:#0040ff;
+}
+.button1 {
+  background-color: #99ddff; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
